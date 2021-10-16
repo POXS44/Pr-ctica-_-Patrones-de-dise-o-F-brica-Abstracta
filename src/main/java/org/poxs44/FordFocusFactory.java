@@ -1,6 +1,6 @@
 package org.poxs44;
 
-public class FordFocusFactory {
+public class FordFocusFactory implements CocheFactory {
 
     @Override
     public Motor crearMotor() {
@@ -12,6 +12,11 @@ public class FordFocusFactory {
     public Carroceria crearCarroceria() {
         // TODO Auto-generated method stub
         return new FCarroceria();
+    }
+    @Override
+    public Sistema_Sonido crearsistemasonido() {
+        // TODO Auto-generated method stub
+        return new FSistemaSonido();
     }
 
 }
