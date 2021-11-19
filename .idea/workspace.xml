@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f02a0fbc-cb8d-4ab7-91d3-fb42a07265ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/poxs44/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/poxs44/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/poxs44/CocheFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/poxs44/CocheFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/poxs44/FordFocusFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/poxs44/FordFocusFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/poxs44/OpelAstracFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/poxs44/OpelAstracFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/poxs44/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/poxs44/App.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,17 +51,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
@@ -81,7 +65,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634359019775</updated>
-      <workItem from="1634359021130" duration="7156000" />
+      <workItem from="1634359021130" duration="7234000" />
+      <workItem from="1634367154504" duration="367000" />
+      <workItem from="1635473828236" duration="6000" />
+      <workItem from="1637346157024" duration="3000" />
     </task>
     <servers />
   </component>
@@ -98,5 +85,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
